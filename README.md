@@ -1,15 +1,4 @@
----
-title: Github 使用教程
-categories:
-  - Web技术
-author: Jelon
-tags:
-	- Github
-	- Git
-thumbnail: http://7xs305.com1.z0.glb.clouddn.com/github_tutorial/5.png
-blogexcerpt: 很多时候，我们想把自己做的开源项目放到 Github 上面，但是不会用Github，怎么办？没关系，Github 使用教程网上一大堆，随便一搜到处都是。尽管如此，如果你不嫌弃的话，你也可以看看下面教程，以下是我自己使用 github 过程中，总结的一些 Github 使用步骤，这里给大家安利以下...
-
----
+# github 使用教程
 
 很多时候，我们想把自己做的开源项目放到 Github 上面，但是不会用Github，怎么办？没关系，Github 使用教程网上一大堆，随便一搜到处都是。尽管如此，如果你不嫌弃的话，你也可以看看下面教程，以下是我自己使用 github 过程中，总结的一些 Github 使用步骤，这里给大家安利一下。
 
